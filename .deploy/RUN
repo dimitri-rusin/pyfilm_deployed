@@ -21,4 +21,4 @@ conda activate .deploy/conda_environment/
 
 
 # Modify the path to a Python script that is the entry script to your project:
-# python start.py
+python r.py
