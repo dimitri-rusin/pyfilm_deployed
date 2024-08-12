@@ -7,3 +7,5 @@ build
 dist
 docs/build
 .vscode
+.deploy/Miniconda3
+.deploy/conda_environment
